@@ -2,7 +2,7 @@
 - 👀 I’m interested in mern stack
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on my project's 
-- 📫 How to reach me on twitter <a href="https://twitter.com/HimanshuJaysw14">@HimanshuJaysw14 <a>
+- 📫 How to reach me on twitter <a href="https://twitter.com/HimanshuJaysw14" target = blanck >@HimanshuJaysw14 <a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
