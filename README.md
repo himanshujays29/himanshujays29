@@ -1,12 +1,62 @@
-- 👋 Hi, I’m himanshu
-- 👀 I’m interested in mern stack
-- 🌱 I’m currently learning Javascript 
-- 💞️ I’m looking to collaborate on my project's 
-- 📫 How to reach me on twitter <a href="https://twitter.com/HimanshuJaysw14" target="_blank" >@HimanshuJaysw14 <a>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm Himanshu Jayswal! 👋
 
-<!---
-himanshujays29/himanshujays29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate **Web Developer** crafting captivating digital experiences. My expertise lies in **front-end magic**: **HTML**, **CSS**, and **JavaScript sorcery**, and I am diving deeper into the **MERN stack**. Let's build something amazing together! 🚀
+
+## 🙋‍♂️ About Me
+- 🔭 **Currently working on:** Full-stack web development and real-life practice projects.
+- 🌱 **Learning:** JavaScript and advancing my MERN stack skills.
+- 🤝 **Collaborations:** Open to collaborating on innovative and impactful projects.
+- 📫 **How to reach me:** [Twitter](https://twitter.com/HimanshuJaysw14) | [LinkedIn](https://linkedin.com/in/himanshu-jayswal)
+- ⚡ **Fun fact:** I love combining creativity and logic to build meaningful user experiences.
+
+---
+
+## 🚀 My Projects
+
+### [Slider Menu](https://github.com/himanshujays29/slider-menu)  
+A fully functional slider menu built using **HTML**. This project showcases my ability to create seamless UI components.
+
+![Slider Menu](https://via.placeholder.com/600x300?text=Slider+Menu+Project)
+
+### [FlavorDash](https://github.com/himanshujays29/FlavorDash)  
+A **food delivery website** crafted with **HTML** and **CSS**, emphasizing responsive design and user-friendly layouts.
+
+![FlavorDash](https://via.placeholder.com/600x300?text=FlavorDash+Project)
+
+### [Amazon Clone](https://github.com/himanshujays29/Amazon-clone)  
+An **Amazon clone** featuring a fully functional front-end using **HTML** and **CSS**. Perfect for showcasing my understanding of e-commerce layouts.
+
+![Amazon Clone](https://via.placeholder.com/600x300?text=Amazon+Clone+Project)
+
+### [Full Stack Web Development](https://github.com/himanshujays29/Full-Stack-web-devlopment)  
+Real-life practice projects focusing on **full-stack development** and **MERN stack** skills.
+
+![Full Stack Project](https://via.placeholder.com/600x300?text=Full+Stack+Development)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks & Libraries:** React, Node.js
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** MongoDB, Express.js
+
+---
+
+## 📊 GitHub Stats
+
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshujays29&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshujays29&layout=compact&theme=dark)
+
+---
+
+## 🔗 Connect With Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/HimanshuJaysw14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/himanshu-jayswal)
+
+---
+
+Let's build the future of web development together! 🌟
