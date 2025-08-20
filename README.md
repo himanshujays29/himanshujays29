@@ -16,22 +16,22 @@ I am a passionate **Web Developer** crafting captivating digital experiences. My
 ### [Slider Menu](https://github.com/himanshujays29/slider-menu)  
 A fully functional slider menu built using **HTML**. This project showcases my ability to create seamless UI components.
 
-![Slider Menu](https://via.placeholder.com/600x300?text=Slider+Menu+Project)
+
 
 ### [FlavorDash](https://github.com/himanshujays29/FlavorDash)  
 A **food delivery website** crafted with **HTML** and **CSS**, emphasizing responsive design and user-friendly layouts.
 
-![FlavorDash](https://via.placeholder.com/600x300?text=FlavorDash+Project)
+
 
 ### [Amazon Clone](https://github.com/himanshujays29/Amazon-clone)  
 An **Amazon clone** featuring a fully functional front-end using **HTML** and **CSS**. Perfect for showcasing my understanding of e-commerce layouts.
 
-![Amazon Clone](https://via.placeholder.com/600x300?text=Amazon+Clone+Project)
+
 
 ### [Full Stack Web Development](https://github.com/himanshujays29/Full-Stack-web-devlopment)  
 Real-life practice projects focusing on **full-stack development** and **MERN stack** skills.
 
-![Full Stack Project](https://via.placeholder.com/600x300?text=Full+Stack+Development)
+
 
 ---
 
