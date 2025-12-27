@@ -1,5 +1,7 @@
 
 
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Himanshu 😃 | Learner | Software Dev</h1>
+
 
 ## WhoAmI.js 
 
