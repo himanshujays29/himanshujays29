@@ -1,4 +1,4 @@
-
+![Github Banner](head.svg)
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="29px" width="29px" />, I'm Himanshu 😃 | Learner | Software Dev</h1>
 
@@ -6,7 +6,7 @@
 ## WhoAmI.js 
 
 ```JavaScript
-const whoAmI = {
+const BehindTheCode = {
   user: "Himanshu Jayswal",
   college: "TATA Institute of Technology",
   technology: "MERN Stack",
