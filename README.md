@@ -42,11 +42,6 @@ const BehindTheCode = {
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshujays29&theme=default)
 
-<p align="center">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=himanshujays29" />
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshujays29&layout=compact&langs_count=8&card_width=320" />
-</p>
-
 </div>
 
 
